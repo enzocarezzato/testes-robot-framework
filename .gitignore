@@ -1,0 +1,18 @@
+# Arquivos gerados pelo Robot Framework
+output.xml
+log.html
+report.html
+results/
+resultados/
+selenium-*.log
+geckodriver-*.log
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Editor
+.vscode/
+.idea/
